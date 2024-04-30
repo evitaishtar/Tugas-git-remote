@@ -1,0 +1,4 @@
+Deskripsi Repositori
+Repositori ini berisi berbagai contoh kode dan proyek yang saya gunakan untuk belajar dan mengembangkan keterampilan pemrograman saya.
+Semoga dapat bermanfaat bagi siapa pun yang ingin mempelajari hal-hal baru dalam dunia pemrograman.
+Terima kasih sudah mengunjungi repositori ini!
